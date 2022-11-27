@@ -24,7 +24,7 @@
     <h2>新リンクはこちら↓</h2>
     <h3><a href="https://djhs-bt-form.netlify.app/">https://djhs-bt-form.netlify.app/</a></h3>
     <p>学校HPのリンクも更新される予定です。<br>しばらくお待ちください。</p>
-    <p>&copy; 2022 <a href="//link.pooh.fun">Kanata Tsuda(d021332)</a> All Right Reserved.</p>
+    <p>&copy; 2022 Kanata Tsuda(d021332) All Right Reserved.</p>
 </body>
 
 </html>
